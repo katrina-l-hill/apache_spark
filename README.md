@@ -29,11 +29,10 @@ In this project, several examples from the official Apache Spark documentation h
 ### Installation
 
 1. Clone this repository:
-   - git clone <repository-url>
-   - cd <repository-folder>
+   - git clone `https://github.com/katrina-l-hill/apache_spark.git`
 
 2. Install required packages:
    - pip install pyspark
 
 ## How to run
-`python spark_test.py`
+- `python spark_test.py`
